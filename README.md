@@ -1,6 +1,6 @@
-# Language is Power: Representing States UsingNatural Language in Reinforcement Learning
+# Language is Power: Representing States Using Natural Language in Reinforcement Learning
 
-This repository accompanies the IJCAI2020 submition "Language is Power: Representing States UsingNatural Language in Reinforcement Learning". The repository contains all the code we used while writing the paper, and can be used to inspect and recreate our results. 
+This repository accompanies the IJCAI2020 submition "Language is Power: Representing States Using Natural Language in Reinforcement Learning". The repository contains all the code we used while writing the paper, and can be used to inspect and recreate our results. 
 
 ## Paper Abstract
 Recent  advances  in  reinforcement  learning  haveshown its potential to tackle complex real life tasks. However, as  the  dimensionality  of  the  task  increases,  reinforcement  learning  methods  tend  to struggle. To  overcome  this,  we  explore  methods for representing the semantic information embedded in the state.  While previous methods focused on information in its raw form (e.g., raw visual input), we propose to represent the state using natural language. Language can represent complex scenarios and concepts,  making it a favorable candidate for representation. Empirical evidence, within the domain of ViZDoom, suggests that natural language based agents are more robust, converge faster and perform better than vision based agents, showing the benefit of using natural language representations for reinforcement learning.
